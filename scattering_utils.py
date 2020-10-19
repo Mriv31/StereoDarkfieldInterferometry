@@ -6,12 +6,6 @@
 
 import numpy as np
 from matplotlib import pyplot as plt
-import os
-
-
-
-
-from scipy import interpolate
 from matplotlib.patches import Rectangle,Circle
 from matplotlib import colors
 import PyMieScatt as ps
